@@ -1,0 +1,17 @@
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Schema.deps.json
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Schema.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Schema.pdb
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Base.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Data.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Data.pdb
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/bin/Debug/net6.0/SimApi.Base.pdb
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.csproj.CopyComplete
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/refint/SimApi.Schema.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/SimApi.Schema.pdb
+/Users/mtekin/RiderProjects/SimApi/SimApi.Schema/obj/Debug/net6.0/ref/SimApi.Schema.dll

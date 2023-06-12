@@ -1,0 +1,12 @@
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/bin/Debug/net6.0/SimApi.Base.deps.json
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/bin/Debug/net6.0/SimApi.Base.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/bin/Debug/net6.0/SimApi.Base.pdb
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/refint/SimApi.Base.dll
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/SimApi.Base.pdb
+/Users/mtekin/RiderProjects/SimApi/SimApi.Base/obj/Debug/net6.0/ref/SimApi.Base.dll
